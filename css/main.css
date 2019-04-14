@@ -135,7 +135,8 @@ hr {
 }
 
 .some-img img{
-    margin: 0 auto
+    margin: 0 auto;
+    mxn-width: 80vh;
 }
 
 .margin-bottom{
